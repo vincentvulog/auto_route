@@ -1,4 +1,4 @@
-name: melos_root
+name: auto_route
 publish_to: none
 
 environment:
